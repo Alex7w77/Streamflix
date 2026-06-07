@@ -129,6 +129,7 @@ public class StreamFlixMain {
         for (Recommendation rec : dtRecs) {
             System.out.println(rec);
         }
+       
 
         // =====================================================================
         // FASE 5: FILTRADO BASADO EN CONTENIDO
